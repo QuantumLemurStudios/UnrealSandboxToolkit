@@ -9,7 +9,7 @@
 
 class ASandboxObject;
 
-USTRUCT()
+USTRUCT(BlueprintType)
 struct FContainerStack {
 	GENERATED_USTRUCT_BODY()
 
